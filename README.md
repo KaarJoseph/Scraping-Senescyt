@@ -1,6 +1,6 @@
-# Proyecto de Extracción de Datos de la SENESCYT
+<h1 align="center">Proyecto de Extracción de Datos de la SENESCYT</h1>
 
-##Realizado por Kaar Joseph
+## Realizado por Kaar Joseph
 
 Este proyecto está diseñado para automatizar la consulta de títulos académicos en el portal de la SENESCYT (Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación) de Ecuador, usando técnicas de automatización con **Selenium**, procesamiento de imágenes con **OpenCV** y reconocimiento óptico de caracteres (**OCR**) con **Tesseract**.
 
